@@ -1,4 +1,4 @@
-# GItAndGitHub
+# GitAndGitHub
 Getting started With GItAndGitHub
 
 ## What is Git?
