@@ -10,4 +10,6 @@ Getting started With GItAndGitHub
 ## Git on Mac OS X
 
 # Basic Git Workflow with GitHub
-
+## Welcome to GitHub
+## Setup the Project Folder
+## Git Configuration (User Name and Email)
