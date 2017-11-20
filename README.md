@@ -13,3 +13,7 @@ Getting started With GItAndGitHub
 ## Welcome to GitHub
 ## Setup the Project Folder
 ## Git Configuration (User Name and Email)
+## Copy the Repository from GitHub to Your Local Computer (git clone)
+## The First Commit
+## Publishing Changes back to GitHub (push)
+## Command Reference
