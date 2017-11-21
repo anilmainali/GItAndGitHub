@@ -20,10 +20,13 @@ Getting started With GItAndGitHub
 
 # Where to go from here?
 
-##Resources to learn GitHub
+## Resources to learn GitHub
 
 - Introduction • GitHub & Git Foundations
 https://www.youtube.com/watch?v=FyfwLX4HAxM
+
+- Training • GitHub and Git Foundations
+https://www.youtube.com/watch?v=HwrPhOp6-aM&list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL
 
 http://fossforce.com/2016/04/learn-git-github-videos/ 
 - Found this from twitter from @Wilsonmar retwitted post. Good explanation. I think you should check this out!
