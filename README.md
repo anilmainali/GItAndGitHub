@@ -17,6 +17,9 @@ vesrsion control is a system that records changes of a file or set of files over
 # Install Git
 ## Installing Git on Windows
 ## nstalling Git on Mac OS X
+## Why it is better to use the terminal?
+- Better Control Over Functions
+- Learn the tool in depth
 
 ## What is GitHub?
 ## Why Git?
