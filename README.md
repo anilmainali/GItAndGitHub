@@ -20,6 +20,15 @@ vesrsion control is a system that records changes of a file or set of files over
 ## Why it is better to use the terminal?
 - Better Control Over Functions
 - Learn the tool in depth
+## Which editor to use
+There are many options out there. Some of them are listed below:
+### For Windows:
+- Notepad ++
+### For Mac
+- textmate
+For both you can use `Sublime`
+You can also use `ATOM`
+
 
 ## What is GitHub?
 ## Why Git?
