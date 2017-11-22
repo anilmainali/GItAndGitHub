@@ -2,6 +2,9 @@
 Getting started With GItAndGitHub
 
 ## What is Git?
+"Git is a version control system"
+## What is version control and why should I used it?
+vesrsion control is a system that records changes of a file or set of files over time.so that you can recall the specific versions later.
 ## What is GitHub?
 ## Why Git?
 
