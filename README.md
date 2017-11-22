@@ -16,7 +16,7 @@ vesrsion control is a system that records changes of a file or set of files over
 
 # Install Git
 ## Installing Git on Windows
-## nstalling Git on Mac OS X
+## Installing Git on Mac OS X
 ## Why it is better to use the terminal?
 - Better Control Over Functions
 - Learn the tool in depth
@@ -29,9 +29,10 @@ There are many options out there. Some of them are listed below:
 For both you can use `Sublime`
 You can also use `ATOM`
 ## Basic Operations in Git
-`pwd`
+`git --version`: To check what version of git you have installed.
+`pwd`: Present Working Derectory.
 
-`ls`
+`ls`: 
 
 `mkdir testgit`
 
@@ -39,7 +40,8 @@ You can also use `ATOM`
 
 `clear`: Clears the screen
 
-git init
+`git init`: To make a repository
+hit ENTER and it will show an empty repo you just created with the path where you new repo is located.
 
 
 
