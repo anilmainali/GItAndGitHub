@@ -37,7 +37,9 @@ You can also use `ATOM`
 
 `cd testgit`
 
-`clear`
+`clear`: Clears the screen
+
+git init
 
 
 
