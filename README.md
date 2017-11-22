@@ -9,6 +9,10 @@ vesrsion control is a system that records changes of a file or set of files over
 - Serves as a backup method.all the commit that you made to the version system will probably will be transmitted over the internet to remote servers or to your computers.
 - Allows historic revision of the project.
 - Enables collaborations between project members.
+## Types of vesion control
+- Local
+- Centralized
+- Distributed
 
 
 
