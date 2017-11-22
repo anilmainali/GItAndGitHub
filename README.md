@@ -28,6 +28,17 @@ There are many options out there. Some of them are listed below:
 - textmate
 For both you can use `Sublime`
 You can also use `ATOM`
+## Basic Operations in Git
+`pwd`
+
+`ls`
+
+`mkdir testgit`
+
+`cd testgit`
+
+`clear`
+
 
 
 ## What is GitHub?
