@@ -43,6 +43,10 @@ You can also use `ATOM`
 `git init`: To make a repository
 hit ENTER and it will show an empty repo you just created with the path where you new repo is located.
 
+It will create a .git folder. whenever there is . it is called a hidden folder.
+that is is the reason when you type `ls` and enter you will not see it.
+but if you pass a parameter called `ls -a` which means show all. you will see a folder called .git
+
 
 
 ## What is GitHub?
