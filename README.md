@@ -14,14 +14,14 @@ vesrsion control is a system that records changes of a file or set of files over
 - Centralized
 - Distributed
 
-
+# Install Git
+## Installing Git on Windows
+## nstalling Git on Mac OS X
 
 ## What is GitHub?
 ## Why Git?
 
-# Installation
-## Installing Git for Windows
-## Git on Mac OS X
+
 
 # Basic Git Workflow with GitHub
 ## Welcome to GitHub
