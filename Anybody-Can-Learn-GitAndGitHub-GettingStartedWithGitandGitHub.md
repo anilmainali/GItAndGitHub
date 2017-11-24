@@ -8,4 +8,5 @@
 - Add those changes.
 - Commit that changes.
 - Push that changes to remote repository.
-## Step 7: 
+## Step 7: Pull changes from the repository at GitHub
+
