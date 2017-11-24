@@ -5,6 +5,7 @@
 ## Step 5: Clone public remote repository to your local machine.
 ## Step 6: Add and commit the file to your local repository.
 - Make changes.
-- Add those changes 
-- Commit that changes
+- Add those changes.
+- Commit that changes.
+- Push that changes to remote repository.
 ## Step 7: 
