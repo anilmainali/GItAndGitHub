@@ -6,5 +6,5 @@
 ## Step 6: Add and commit the file to your local repository.
 - Make changes.
 - Add those changes 
-- 
+- Commit that changes
 ## Step 7: 
