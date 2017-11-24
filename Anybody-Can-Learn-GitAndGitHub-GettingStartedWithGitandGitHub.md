@@ -4,4 +4,7 @@
 ## Step 4: Create a local repository.
 ## Step 5: Clone public remote repository to your local machine.
 ## Step 6: Add and commit the file to your local repository.
+- Make changes.
+- Add those changes 
+- 
 ## Step 7: 
